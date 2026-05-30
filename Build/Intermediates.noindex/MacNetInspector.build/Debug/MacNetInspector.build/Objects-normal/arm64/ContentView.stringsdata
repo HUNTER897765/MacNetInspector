@@ -1,0 +1,304 @@
+{
+  "source": "/Users/pavelvolkind/Documents/MacNetInspector/MacNetInspector/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MacNet Inspector",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Offline",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Online",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "macOS sandbox restricts apps from monitoring other apps' network connections. To see active connections, use Terminal with the command below.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "About Connections",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terminal Command",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copied!",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "How to use",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Interface",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 450
+        }
+      },
+      {
+        "comment": "",
+        "key": "VPN",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 486
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 494
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not detected",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 494
+        }
+      },
+      {
+        "comment": "",
+        "key": "DNS Servers",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 526
+        }
+      },
+      {
+        "comment": "",
+        "key": "DNS Leak",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 581
+        }
+      },
+      {
+        "comment": "",
+        "key": "External Network Analysis",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 625
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 638
+        }
+      },
+      {
+        "comment": "",
+        "key": "VPN chance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 641
+        }
+      },
+      {
+        "comment": "",
+        "key": "via %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 705
+        }
+      },
+      {
+        "comment": "",
+        "key": "Country",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 668
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 680
+        }
+      },
+      {
+        "comment": "",
+        "key": "Provider",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 692
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ping",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 738
+        }
+      },
+      {
+        "comment": "",
+        "key": "No results yet",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 756
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pinging servers...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 751
+        }
+      },
+      {
+        "comment": "",
+        "key": "—",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 801
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldms",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 797
+        }
+      },
+      {
+        "comment": "",
+        "key": "Press Run Test to measure your download speed",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 868
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test failed — check connection",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 907
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speed Test",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 839
+        }
+      },
+      {
+        "comment": "",
+        "key": "Testing...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 849
+        }
+      },
+      {
+        "comment": "",
+        "key": "Re-run",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 852
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run Test",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 852
+        }
+      },
+      {
+        "comment": "",
+        "key": "Downloading 5MB from Cloudflare...",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 874
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 881
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mbps",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 890
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quality",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 896
+        }
+      }
+    ]
+  },
+  "version": 1
+}

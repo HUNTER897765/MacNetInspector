@@ -1,0 +1,8 @@
+{
+  "" : {
+    "pch" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary-Bridging-header.pch"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/MacNetInspector/ContentView.swift" : {
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.__XCPREVIEW_THUNKSUFFIX__.preview-thunk.o"
+  }
+}

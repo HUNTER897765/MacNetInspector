@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary.dia",
+    "emit-module-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary-emit-module.dia",
+    "pch" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspector-primary.swiftdeps"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/AppDelegate.swift" : {
+    "const-values" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/MacNetInspector/ContentView.swift" : {
+    "const-values" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/MacNetInspector/MacNetInspectorApp.swift" : {
+    "const-values" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.swiftconstvalues",
+    "dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.d",
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.dia",
+    "index-unit-output-path" : "/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.o",
+    "llvm-bc" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.bc",
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.o",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp.swiftdeps",
+    "swiftmodule" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/MacNetInspectorApp~partial.swiftmodule"
+  },
+  "/Users/pavelvolkind/Documents/MacNetInspector/NetworkMonitor.swift" : {
+    "const-values" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.swiftconstvalues",
+    "dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.d",
+    "diagnostics" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.dia",
+    "index-unit-output-path" : "/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.o",
+    "llvm-bc" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.bc",
+    "object" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.o",
+    "swift-dependencies" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor.swiftdeps",
+    "swiftmodule" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/MacNetInspector.build/Debug/MacNetInspector.build/Objects-normal/arm64/NetworkMonitor~partial.swiftmodule"
+  }
+}

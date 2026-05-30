@@ -1,0 +1,61 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "089deaa9b8023eb47a96e378270e3e0f91060e2e8956984ee43f662c65b80207"
+    }
+  ],
+  "containerPath" : "/Users/pavelvolkind/Documents/MacNetInspector/MacNetInspector.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Products",
+      "derivedDataPath" : "/Users/pavelvolkind/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/pavelvolkind/Library/Developer/Xcode/DerivedData/MacNetInspector-adxavazevfccjrcdinwaufsgqzgk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/pavelvolkind/Library/Developer/Xcode/DerivedData/MacNetInspector-adxavazevfccjrcdinwaufsgqzgk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/pavelvolkind/Documents/MacNetInspector/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
